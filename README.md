@@ -7,5 +7,5 @@ The the first experimental result that I got is in the image below:
 
 And the interpolated images are:
 
-<img src='interpolated_images.png' width= 50%>
+<img src='interpolated_images.png' width= 80%>
 
