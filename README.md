@@ -3,3 +3,5 @@ This repository contains all jobs for week 1 of bootcamp. The main paper is <a h
 
 The the first experimental result that I got is in the image below:
 
+<img src='ig_result.png'>
+
