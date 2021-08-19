@@ -7,11 +7,13 @@ The original image is:
 
 <img src='70bfca4555cca92e.jpg' width= 50%>
 
-The the first experimental result that I got is in the image below:
+The interpolated images are:
+
+<img src='interpolated_images.png' width= 80% height= 70%>
+
+The experimentations gives us:
 
 <img src='ig_result.png' width= 50%>
 
-And the interpolated images are:
 
-<img src='interpolated_images.png' width= 80% height= 70%>
 
