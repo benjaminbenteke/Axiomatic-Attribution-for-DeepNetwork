@@ -4,6 +4,7 @@ This repository contains all jobs for week 1 of bootcamp. The main paper is <a h
 The main idea behind this paper is to identify how much an inputs feature (pixels, for example) to the prediction of a given input data. This is very important for the model interpretability. The method that we use is <b> Integrated gradient</b>.
 
 The original image is:
+
 <img src='70bfca4555cca92e.jpg' width= 50%>
 
 The the first experimental result that I got is in the image below:
