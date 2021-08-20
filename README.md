@@ -9,7 +9,7 @@ The original image is:
 
 The interpolated images are:
 
-<img src='interpolated_images.png' width= 80% height= 70%>
+<img src='interpolated_images.png' width= 50% height= 70%>
 
 The experimentations gives us:
 
