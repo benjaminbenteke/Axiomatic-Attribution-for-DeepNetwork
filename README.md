@@ -17,6 +17,7 @@ The experimentations gives us:
 <img src='ig_result.png' width= 40% align="right">
 <h2>gradient method result</h2>
 <img src='grad.png' width= 40% align="left">
+<br>
 In <a href= 'https://arxiv.org/pdf/1703.01365.pdf'> Axiomatic Attribution for Deep Networks </a>, the implementations were done on:
 <ol>
   <li> <b> An Object Recognition Network </b> </li>
