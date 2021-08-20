@@ -17,17 +17,6 @@ The experimentations gives us:
 <img src='grad.png' width= 50% align="left">
 
 
-In <a href= 'https://arxiv.org/pdf/1703.01365.pdf'> Axiomatic Attribution for Deep Networks </a>, the implementations were done on:
-<ol>
-  <li> <b> An Object Recognition Network </b> </li>
-  <li> <b> Diabetic Retinopathy Prediction </b> </li>
-  <li> <b> Question Classification </b> </li>
-  <li> <b> Neural Machine Translation </b> </li>
-  <li> <b> Chemistry Models </b> </li> 
-</ol>
-
-Whereas, up to now my experimentations stay on <b> An Object Recognition Network </b>. I keep working on all these use cases.
-
 
 
 
