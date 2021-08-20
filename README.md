@@ -25,10 +25,11 @@ The interpolated images are:
 
 The experimentations gives us:
 
-<h1>Integrated Gradient method</h1>
 <img src='ig_result.png' width= 40% align="right">
-<h1>gradient method result</h2>
+
 <img src='grad.png' width= 50%  height= 80% align="left"> 
+
+The left and right figures represent Integrated Gradient method results and gradient method result respectively.
 
 
 
