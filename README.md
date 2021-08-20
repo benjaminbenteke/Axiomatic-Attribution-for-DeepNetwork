@@ -13,11 +13,14 @@ The interpolated images are:
 
 The experimentations gives us:
 
-<img src='ig_result.png' width= 50%>
+<body>
+    <h1>Integrated Gradient method</h1>
+  
+    <h2>gradient method result</h2>
+  
+    <img src='ig_result.png' width= 50%>
+    <img src='grad.png' width= 50%>
 
-Unlike gradient method gives us:
-
-<img src='grad.png' width= 50%>
 
 In <a href= 'https://arxiv.org/pdf/1703.01365.pdf'> Axiomatic Attribution for Deep Networks </a>, the implementations were done on:
 <ol>
