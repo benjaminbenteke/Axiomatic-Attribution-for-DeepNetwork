@@ -23,7 +23,7 @@ The interpolated images are:
 
 <img src='interpolated_images.png' width= 50% height= 70%>
 
-<b> Experimentation results: </b> The left and right figures represent <b> gradient method </b> result and <b> Integrated Gradient method <b> results respectively. As you can see, <b> Integrated Gradient method <b> works better than <b> Gradient method <b>, because it the Integrated Gradient image reflet the original image. See the Attention mask image et Attention mask + original image.
+<b> Experimentation results: </b> The left and right figures represent <b> gradient method </b> result and <b> Integrated Gradient method </b> results respectively. As you can see, <b> Integrated Gradient method <b> works better than <b> Gradient method </b>, because it the Integrated Gradient image reflet the original image. See the Attention mask image et Attention mask + original image.
 
 <img src='ig_result.png' width= 40% height= 40% align="right">
 
