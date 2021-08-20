@@ -15,5 +15,9 @@ The experimentations gives us:
 
 <img src='ig_result.png' width= 50%>
 
+Unlike gradient method gives us:
+
+<img src='grad.png' width= 50%>
+
 
 
