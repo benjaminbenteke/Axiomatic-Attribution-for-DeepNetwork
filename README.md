@@ -23,13 +23,13 @@ The interpolated images are:
 
 <img src='interpolated_images.png' width= 50% height= 70%>
 
-The experimentations gives us:
+<b> Experimentation results: </b> The left and right figures represent <b> gradient method </b> result and <b> Integrated Gradient method <b> results respectively.
 
 <img src='ig_result.png' width= 40% align="right">
 
 <img src='grad.png' width= 50%  height= 80% align="left"> 
 
-The left and right figures represent <b> gradient method </b> result and <b> Integrated Gradient method <b> results respectively.
+
 
 
 
