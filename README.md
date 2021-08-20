@@ -13,7 +13,7 @@ The interpolated images are:
 
 The experimentations gives us:
 
-<img src='ig_result.png' width= 50 align="right"%>
+<img src='ig_result.png' width= 50% align="right">
 <img src='grad.png' width= 50% align="left">
 
 
