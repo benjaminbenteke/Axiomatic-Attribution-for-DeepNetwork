@@ -14,12 +14,20 @@ The interpolated images are:
 The experimentations gives us:
 
 <h1>Integrated Gradient method</h1>
-
-<h2>gradient method result</h2>
-
-
 <img src='ig_result.png' width= 40% align="right">
+<h2>gradient method result</h2>
 <img src='grad.png' width= 40% align="left">
+In <a href= 'https://arxiv.org/pdf/1703.01365.pdf'> Axiomatic Attribution for Deep Networks </a>, the implementations were done on:
+<ol>
+  <li> <b> An Object Recognition Network </b> </li>
+  <li> <b> Diabetic Retinopathy Prediction </b> </li>
+  <li> <b> Question Classification </b> </li>
+  <li> <b> Neural Machine Translation </b> </li>
+  <li> <b> Chemistry Models </b> </li> 
+</ol>
+
+Whereas, up to now my experimentations stay on <b> An Object Recognition Network </b>. I keep working on all these use cases.
+
 
 
 
