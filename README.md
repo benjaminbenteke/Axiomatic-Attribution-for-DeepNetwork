@@ -25,9 +25,9 @@ The interpolated images are:
 
 <b> Experimentation results: </b> The left and right figures represent <b> gradient method </b> result and <b> Integrated Gradient method <b> results respectively.
 
-<img src='ig_result.png' width= 40% align="right">
+<img src='ig_result.png' width= 100% height= 100% align="right">
 
-<img src='grad.png' width= 50%  height= 80% align="left"> 
+<img src='grad.png' width= 100%  height= 100% align="left"> 
 
 
 
