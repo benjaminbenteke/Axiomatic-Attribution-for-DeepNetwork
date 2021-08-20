@@ -29,7 +29,7 @@ The experimentations gives us:
 
 <img src='grad.png' width= 50%  height= 80% align="left"> 
 
-The left and right figures represent Integrated Gradient method results and gradient method result respectively.
+The left and right figures represent <b> gradient method </b> result and <b> Integrated Gradient method <b> results respectively.
 
 
 
