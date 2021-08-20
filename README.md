@@ -19,5 +19,7 @@ Unlike gradient method gives us:
 
 <img src='grad.png' width= 50%>
 
+In <a href= 'https://arxiv.org/pdf/1703.01365.pdf'> Axiomatic Attribution for Deep Networks </a>, the implementations were done on <b> An Object Recognition Network </b>, <b> Diabetic Retinopathy Prediction </b>, <b> Question Classification </b>, <b> Neural Machine Translation </b> and <b> Chemistry Models </b>. Whereas, up to now my experimentations stay on <b> An Object Recognition Network </b>. I keep working on all these use cases.
+
 
 
